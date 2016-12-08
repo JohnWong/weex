@@ -20,6 +20,6 @@ href attributes defines the URL of the hyperlink.
 tip: we can't guarantee the order of execution between onclick function and href
 
 ### Examples
-    <a href="http://g.tbcdn.cn/ali-wireless-h5/res/0.0.16/hello.js">
+    <a href="https://g.alicdn.com/ali-wireless-h5/res/0.0.16/hello.js">
        <text>Click me to see how 'A' element opens a new world.</text>
     </a>
